@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.sass"],"names":[],"mappings":"AAAA,EACE,OAAQ,EACR,QAAS,EACT,WAAY,WAGd,SACE,MAAO,OACP,OAAQ,MACR,WAAY","file":"style.min.css","sourcesContent":["*\r\n    margin: 0\r\n    padding: 0\r\n    box-sizing: border-box\r\n\r\n.section\r\n    width: 1656px\r\n    height: 320px\r\n    background: rgb(176, 204, 13)\r\n\r\n"]}
